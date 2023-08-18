@@ -1,12 +1,12 @@
-Final Models and Results:
-  Final Basic Model.ipynb
-  Final Pre-trained Model.ipynb
-
 Label File:
   BCS-DBT labels-train-v2.csv
+
+Dataset Analysis:
+  Dataset Analysis.ipynb
 
 Data Filtering and Downloading:
   Image Preprocessing.ipynb
 
-Dataset Analysis:
-  Dataset Analysis.ipynb
+Final Models and Results:
+  Final Basic Model.ipynb
+  Final Pre-trained Model.ipynb
